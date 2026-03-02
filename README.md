@@ -2,7 +2,7 @@
 <h3 align="center">🚀 MERN Stack Developer | Building Scalable Web Apps</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+MERN+Developer;React+%7C+Node+%7C+MongoDB;Turning+Ideas+into+Scalable+Products;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+MERN+Developer;React+%7C+Node+%7C+MongoDB+%7C+Express.js;Turning+Ideas+into+Scalable+Products;Always+Learning+New+Technologies" />
 </p>
 
 ---
@@ -50,8 +50,6 @@
 
 
 
-### 🌍 Portfolio
-🔗 https://portfolio-josva.netlify.app/
 
 ---
 
