@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Beniyel Josva</h1>
+<h3 align="center">Self-driven MERN Stack Developer from Tamil Nadu 🇮🇳</h3>
 
-<!--
-**jozva/jozva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 💻 I build full-stack web applications using MERN
+- 🌱 Currently improving backend & deployment skills
+- 🎯 Focused on writing clean & scalable code
+- 📫 Reach me: kingsonjozva@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+- **Frontend:** React, HTML, CSS, JavaScript, Tailwind
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **Tools:** Git, GitHub, VS Code
+
+---
+
+### 🔥 Projects
+- 🛒 E-commerce Add to Cart App
+- 🎮 Memory Game
+- 📝 Todo App
+- 🌐 Landing Page Projects
+
+---
+
+### 🌍 Portfolio
+🔗 https://portfolio-josva.netlify.app/
+
+---
+
+⭐ Let's build something impactful!
