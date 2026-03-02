@@ -15,7 +15,7 @@
 - **Frontend:** React, HTML, CSS, JavaScript, Tailwind
 - **Backend:** Node.js, Express.js
 - **Database:** MySQL, MongoDB
-- **Tools:** Git, GitHub, VS Code
+- **Tools:** Git, GitHub, VS Code, Postman, Figma
 - **Auth:** OAuth, JWT
 
 ---
