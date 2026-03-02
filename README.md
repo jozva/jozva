@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Beniyel Josva</h1>
-<h3 align="center">Self-driven MERN Stack Developer from Tamil Nadu 🇮🇳</h3>
+<h3 align="center">MERN Stack Developer </h3>
 
 ---
 
