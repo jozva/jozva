@@ -8,7 +8,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔥 Self-driven MERN Stack Developer from Tamil Nadu 🇮🇳  
+- 🔥 Self-driven MERN Stack Developer  
 - 💻 I build full-stack web applications using MongoDB, Express, React & Node  
 - 🌱 Currently improving backend performance & deployment skills  
 - 🎯 Focused on clean code & scalable architecture  
@@ -17,21 +17,16 @@
 ---
 
 ### 🛠️ Tech Stack
+- **Frontend:** React, HTML, CSS, JavaScript, Tailwind
+- **Backend:** Node.js, Express.js
+- **Database:** MySQL, MongoDB
+- **Tools:** Git, GitHub, VS Code, Postman, Figma
+- **Auth:** OAuth, JWT
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,tailwind" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jozva&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jozva&theme=tokyonight" height="170"/>
-</p>
 
 ---
+
+
 
 ### 🚀 Top Projects
 - 🛒 E-Commerce Add to Cart App  
